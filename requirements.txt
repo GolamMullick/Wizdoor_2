@@ -1,6 +1,6 @@
 python>=3.5
 djangorestframework==3.9.2
-django==2.2.10
+django==2.2.21
 django-filter>=1.1,<1.2
 pygments==2.3.1
 Markdown==3.1
